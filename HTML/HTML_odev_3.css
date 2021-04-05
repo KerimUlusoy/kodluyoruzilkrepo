@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+.content {
+    width: 90%;
+    margin: 0;
+    display: inline-block;
+}
+
+.search {
+    background-color: #EEEEEE;
+}
+
+.special {
+    width: 37%;
+    background-color: #7EE5DA;
+    margin-right: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.help {
+    width: 20%;
+    background-color: #70CCC2;
+    font-size: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.get {
+    width: 43%;
+    background-color: #62B3AA;
+    font-size: 13px;
+    margin-left: 2px;
+    
+}
+
+.mavi {
+    margin-top: 3px;
+    margin-bottom: 15px;
+    height: 78px;
+    display: flex;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+#copy {
+    font-size: 13px;
+}
