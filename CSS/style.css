@@ -1,0 +1,65 @@
+body {
+    background-color: #BBBBBB;
+    text-align: center;
+}
+
+/* Sınıflar */
+.heading-top{
+    font-size: 48px;
+    color: #865858;
+ }
+ .heading-page {
+     font-size: 35px;
+     color: #8e7f7f;
+ }
+ .heading-vehicle {
+     font-size: 25px;
+     color: #4a47a3;
+ }
+ .main-list {
+    display: inline;
+    margin: 20px;
+    font-size: 20px;
+}
+.li-vehicle {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 30px;
+    list-style-position: inside;
+    color: #413c69;
+}
+.text {
+    font-size: 20px;
+    color: #413c69;
+
+}
+.align-left {
+    margin-left: 15px;
+    text-align: left;
+}
+.categories-list {
+    font-size: 30px;
+    color: #413c69;
+}
+/**************************************************************/
+h3 {
+    font-size: 25px;
+    color: #413c69;
+}
+img {
+    margin-top: 20px;
+    width: 720px;
+}
+ul{
+    padding: 0;
+}
+ a {
+    text-decoration: none;
+    color: #8e7f7f;
+    padding: 5px;
+    border-radius: 10px;
+ }
+ a:hover {
+    background-color: #e2d5d5;
+ }
+ 
